@@ -1,0 +1,6 @@
+D:\adminp9\ifshop\SQLDB\bin\Debug\SQLDB.dll
+D:\adminp9\ifshop\SQLDB\bin\Debug\SQLDB.pdb
+D:\adminp9\ifshop\SQLDB\obj\Debug\SQLDB.csprojAssemblyReference.cache
+D:\adminp9\ifshop\SQLDB\obj\Debug\SQLDB.csproj.CoreCompileInputs.cache
+D:\adminp9\ifshop\SQLDB\obj\Debug\SQLDB.dll
+D:\adminp9\ifshop\SQLDB\obj\Debug\SQLDB.pdb

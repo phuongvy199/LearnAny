@@ -1,0 +1,9 @@
+D:\adminp9\ifshop\SQL\bin\Debug\netcoreapp2.1\SQL.deps.json
+D:\adminp9\ifshop\SQL\bin\Debug\netcoreapp2.1\SQL.dll
+D:\adminp9\ifshop\SQL\bin\Debug\netcoreapp2.1\SQL.pdb
+D:\adminp9\ifshop\SQL\obj\Debug\netcoreapp2.1\SQL.csprojAssemblyReference.cache
+D:\adminp9\ifshop\SQL\obj\Debug\netcoreapp2.1\SQL.csproj.CoreCompileInputs.cache
+D:\adminp9\ifshop\SQL\obj\Debug\netcoreapp2.1\SQL.AssemblyInfoInputs.cache
+D:\adminp9\ifshop\SQL\obj\Debug\netcoreapp2.1\SQL.AssemblyInfo.cs
+D:\adminp9\ifshop\SQL\obj\Debug\netcoreapp2.1\SQL.dll
+D:\adminp9\ifshop\SQL\obj\Debug\netcoreapp2.1\SQL.pdb

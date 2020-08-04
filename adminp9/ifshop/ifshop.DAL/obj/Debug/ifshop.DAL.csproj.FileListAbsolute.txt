@@ -1,0 +1,9 @@
+D:\adminp9\ifshop\ifshop.DAL\bin\Debug\ifshop.DAL.dll
+D:\adminp9\ifshop\ifshop.DAL\bin\Debug\ifshop.DAL.pdb
+D:\adminp9\ifshop\ifshop.DAL\bin\Debug\SQLDB.dll
+D:\adminp9\ifshop\ifshop.DAL\bin\Debug\SQLDB.pdb
+D:\adminp9\ifshop\ifshop.DAL\obj\Debug\ifshop.DAL.csprojAssemblyReference.cache
+D:\adminp9\ifshop\ifshop.DAL\obj\Debug\ifshop.DAL.csproj.CoreCompileInputs.cache
+D:\adminp9\ifshop\ifshop.DAL\obj\Debug\ifshop.DAL.csproj.CopyComplete
+D:\adminp9\ifshop\ifshop.DAL\obj\Debug\ifshop.DAL.dll
+D:\adminp9\ifshop\ifshop.DAL\obj\Debug\ifshop.DAL.pdb

@@ -1,0 +1,13 @@
+﻿body {
+    font-family:Arial;
+    font-size: 12px;
+}
+div{
+    padding:10px 0px 2px 2px;
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    color:red;
+}

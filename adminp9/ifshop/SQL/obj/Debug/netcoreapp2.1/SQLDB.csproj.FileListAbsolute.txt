@@ -1,0 +1,4 @@
+D:\adminp9\ifshop\SQL\obj\Debug\netcoreapp2.1\SQLDB.csprojAssemblyReference.cache
+D:\adminp9\ifshop\SQL\obj\Debug\netcoreapp2.1\SQLDB.csproj.CoreCompileInputs.cache
+D:\adminp9\ifshop\SQL\obj\Debug\netcoreapp2.1\SQLDB.AssemblyInfoInputs.cache
+D:\adminp9\ifshop\SQL\obj\Debug\netcoreapp2.1\SQLDB.AssemblyInfo.cs
